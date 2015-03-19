@@ -35,8 +35,8 @@ than welcome.
 
 ## Am I qualified?
 
-Anybody who's interested in automatically
-qualified to be in the group. The book assumes
+Anybody who's interested automatically
+qualifies to be in the group. The book assumes
 very little knowledge of set theory, and we'd be
 more than happy to fill in any gaps.
 
