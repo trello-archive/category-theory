@@ -1,7 +1,7 @@
 Every Thursday we hold a seminar on category
 theory from 1 PM to 2 PM, accessible either via HQ
 or videoconferencing. Everybody is welcome! Come
-to [#haskell][0] if you have any questions
+to [#categories][0] if you have any questions
 whatsoever. If you need an invite to that Slack
 team, please send an email to Ian or Hao.
 
