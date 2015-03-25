@@ -9,8 +9,8 @@ team, please send an email to Ian or Hao.
 
 ## What is the videoconferencing link?
 
-It's posted in #haskell. This repository is public
-so we can't talk much here. Shh.
+It's posted in #categories. This repository is
+public so we can't talk much here. Shh.
 
 ## What is category theory?
 
@@ -57,7 +57,7 @@ course talk about older material at the next one.
 
 ## I have a question not answered here.
 
-During work hours if you write it into #haskell,
-you'll get an answer almost immediately.
-Otherwise, post it to
+During work hours if you write it into
+#categories, you'll get an answer almost
+immediately. Otherwise, post it to
 [Basilica](https://basilica.horse).
