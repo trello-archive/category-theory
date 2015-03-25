@@ -57,7 +57,7 @@ course talk about older material at the next one.
 
 ## I have a question not answered here.
 
-During work hours if you write it into
-#categories, you'll get an answer almost
+During work hours if you write it into #categories,
+you'll get an answer almost
 immediately. Otherwise, post it to
 [Basilica](https://basilica.horse).
